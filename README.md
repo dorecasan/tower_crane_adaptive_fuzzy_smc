@@ -7,8 +7,8 @@ This contains MATLAB/Simulink files for the implementation of an adaptive fuzzy 
 ## Results
 
 ![images](figures/x5.png)
-![images](figures/theta.png)
-![images](figures/gamma_2.png)
-![images](figures/phi_ff.png)
+![images](figures/theta.jpg)
+![images](figures/gamma_2.jpg)
+![images](figures/phi_ff.jpg)
 ![images](figures/translation_force.png)
 ![images](figures/rotaion_force.png)
